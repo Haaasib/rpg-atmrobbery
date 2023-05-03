@@ -63,4 +63,4 @@ exports('ATMRobbery', ATMRobbery)
         -- ATM Robbery
         ['atmrobbery'] = "ATM Robbery"
 ```
-## 
+* Join Discord : discord.gg/T7du2nJfyN
