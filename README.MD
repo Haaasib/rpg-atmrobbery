@@ -61,6 +61,6 @@ exports('ATMRobbery', ATMRobbery)
 ## ps-dispatch > locales > locales.lua
 ```lua
         -- ATM Robbery
-        ['atmrobbery'] = "ATM Robbery"
+        ['atmrobbery'] = "ATM Robbery",
 ```
 * Join Discord : discord.gg/T7du2nJfyN
